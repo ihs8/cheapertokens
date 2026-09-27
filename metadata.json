@@ -1,0 +1,6 @@
+{
+  "name": "OpusTokens Telegram Bot & Reseller Portal",
+  "description": "Telegram Bot and Reseller management portal for OpusTokens with Telegram Stars top-ups, API key minting, usage tracking, and multi-model routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
